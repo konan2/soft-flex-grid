@@ -63,7 +63,7 @@
 }
 
 .flex-flow_row-reverse-wrap-reverse{
-  row-reverse wrap-reverse
+  row-reverse: wrap-reverse;
 }
 
 
@@ -534,3 +534,8 @@
 .flex-offset-66 {
   margin-left: calc(200% / 3);
 }
+
+
+/*  RESPONSIVE  */
+/* Here is three media breakpoints : 320, 960 and 1280; */
+
